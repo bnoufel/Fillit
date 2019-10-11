@@ -1,6 +1,6 @@
-# fillit
+# Fillit
 
-## Validated: 100/100
+## Validé: 100/100
 
 Fillit ne consiste pas à recoder Tetris, mais reste une variante du jeu dans l’esprit.
 Votre programme prendra en paramètre un fichier décrivant une liste de Tetriminos
